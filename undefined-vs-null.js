@@ -33,3 +33,6 @@ console.log(fun);
 // way - 7
 let ages = [2, 5, 7];
 console.log(ages[11]);
+// way - 8
+console.log(name);
+var name = 'Rahim';
